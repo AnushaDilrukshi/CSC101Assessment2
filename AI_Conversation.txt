@@ -1,0 +1,158 @@
+Week 10 Assignment – Show Me Your Process
+I will explain your assignment in simple English, step by step, so you can understand what your lecturer wants you to do.
+1. What is this assignment about?
+Your assignment is called “Week 10: Show Me Your Process.”
+Your lecturer wants to check whether you can understand a problem and explain how to solve it before writing a computer program.
+You have two problems to complete:
+Problem 1: Tip Calculator
+Problem 2: Late Fee Calculator
+For each problem, you must complete three steps:
+Step 1: Understand the problem.
+Step 2: Identify the inputs and outputs.
+Step 3: Solve the problem manually.
+Important: You do not need to write any Python code for this assignment.
+2. Problem 1: Tip Calculator
+The Scenario
+Imagine you work at a restaurant in Perth.
+Your manager wants a program that calculates tips for customers.
+The staff will enter:
+The customer's bill amount.
+The tip percentage.
+The program will calculate:
+The tip amount.
+The total bill, including the tip.
+STEP 1: Understand the Problem
+Your lecturer asks:
+"In your own words, what is this program supposed to do?"
+You need to explain the purpose of the program in 2–3 sentences.
+For example:
+The program helps restaurant staff calculate customer tips. Staff enter the bill amount and the tip percentage. The program calculates the tip and the total amount the customer needs to pay.
+Try to express this in your own words.
+STEP 2: Identify Inputs and Outputs
+First, understand these two words.
+Input: Information entered into a program.
+Output: Information produced by a program.
+For the tip calculator:
+Inputs
+Outputs
+Bill amount
+Tip amount
+Tip percentage
+Total bill
+Numbers
+Money values in dollars
+For example:
+Input:
+Bill = $45.80
+Tip = 15%
+Output:
+Tip amount = $6.87
+Total bill = $52.67
+STEP 3: Work It By Hand
+Your lecturer gives you:
+Bill amount = $45.80
+Tip percentage = 15%
+You must calculate the answer manually.
+Calculation 1: Find the tip amount.
+Formula:
+Tip = Bill × Tip percentage ÷ 100
+= 45.80 × 15 ÷ 100
+= $6.87
+Calculation 2: Find the total bill.
+Total = Bill + Tip
+= 45.80 + 6.87
+= $52.67
+Final result:
+The tip is $6.87, and the customer must pay $52.67.
+This is how you demonstrate your calculations to the lecturer.
+3. Problem 2: Late Fee Calculator
+The Scenario
+Imagine you work at a library in Perth.
+The library allows customers to borrow books for 14 days.
+If someone returns a book late, they must pay a fine.
+The library charges:
+$0.50 for every overdue day.
+However, the maximum fine is $10.00.
+This means the fine cannot exceed $10, regardless of how many days the book is overdue.
+STEP 1: Understand the Problem
+Your lecturer asks:
+"What is this program supposed to do?"
+You need to explain its purpose in 2–3 sentences.
+For example:
+The program calculates library fines for overdue books. The librarian enters the number of days a book is overdue. The program calculates the fine, but the maximum fine is $10.
+STEP 2: Identify Inputs and Outputs
+Input
+Output
+Number of overdue days
+Fine amount
+Whole number
+Amount in dollars
+Special cases:
+If the book is not overdue, the fine is $0.
+If the calculated fine exceeds $10, the maximum fine is $10.
+STEP 3: Work It By Hand
+Your lecturer gives you three cases.
+You must calculate all three.
+Case A: Book is 5 days late
+Fine = Overdue days × $0.50
+= 5 × 0.50
+= $2.50
+Answer: The fine is $2.50.
+Case B: Book is 25 days late
+Fine = 25 × 0.50
+= $12.50
+However, the library has a maximum fine of $10.
+Therefore:
+Final fine = $10.00
+You should explain why the fine is $10 instead of $12.50.
+Case C: Book is 0 days late
+Fine = 0 × 0.50
+= $0.00
+Answer: No fine is required because the book is not overdue.
+4. How to Submit Your Assignment
+Your lecturer has provided specific submission instructions.
+You must:
+Open Google Colab.
+Create a new notebook.
+Use Markdown cells to write your answers.
+Complete Steps 1, 2 and 3 for both problems.
+Save your notebook to your GitHub repository.
+Use this commit message: Week 10 - Process documentation
+Important: Using AI
+Your lecturer allows you to use AI to:
+Check your calculations.
+Understand the questions.
+Check whether you identified the correct inputs and outputs.
+However, your final answers must be written in your own words.
+Since you are using AI to check your understanding, the instructions also ask you to:
+Export your AI conversation.
+Save it as AI_conversation.txt.
+Add that file to your GitHub repository.
+5. How Will Your Lecturer Mark This?
+Your lecturer uses two categories:
+Complete: You have answered all three steps for both problems, shown genuine effort, and included the AI conversation if you used AI.
+Incomplete: You have missed steps, provided very short answers without explanations, or failed to show your working.
+You do not need to write code.
+6. What Should You Do Next?
+We can complete this assignment together using Google Colab.
+I will guide you through each step, including where to click, how to create Markdown cells, and how to save your work to GitHub.
+You can write the answers in simple English after understanding each calculation.
+First, open Google Colab and create a new notebook.
+Then send me a screenshot of your screen. We can start with Problem 1 – Step 1 and complete the assignment one step at a time.
+Great! 😊 You've made good progress with your Week 10 Assignment.
+I checked your screenshots.
+✅ Google Colab notebook created.
+✅ Problem 2 calculations are correct.
+✅ GitHub repository selected: CSC101Assessment2
+✅ Notebook saved successfully to GitHub. Your screenshot shows “Saved successfully!”
+What is left?
+According to your lecturer's instructions, you also need to:
+Make sure Problem 1 has Steps 1, 2 and 3.
+Make sure Problem 2 has Steps 1, 2 and 3.
+Save your AI conversation as AI_conversation.txt and add it to GitHub.
+Make sure your final notebook is saved with the required commit message: Week 10 - Process documentation.
+Let's check your assignment first.
+Step 1: Open your Google Colab notebook.
+Step 2: Scroll all the way to the top.
+Step 3: Send me a screenshot showing Problem 1: Tip Calculator.
+I will check whether anything is missing before we finish the submission.
